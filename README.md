@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/data_visualization.jpg "Visualization"
+[image1]: ./images/data_visualization.png "Visualization"
 [image2]: ./images/test_images.jpg "Test"
 [image3]: ./images/result_images.jpg "Result"
 [image4]: ./images/top5_1.jpg "Result5_1"
